@@ -1,0 +1,9 @@
+br\edu\ifsuldeminas\sd\chat\Receiver.class
+br\edu\ifsuldeminas\sd\chat\ChatException.class
+br\edu\ifsuldeminas\sd\chat\client\SysOutContainer.class
+br\edu\ifsuldeminas\sd\chat\MessageContainer.class
+br\edu\ifsuldeminas\sd\chat\UDPSender.class
+br\edu\ifsuldeminas\sd\chat\ChatFactory.class
+br\edu\ifsuldeminas\sd\chat\UDPReceiver.class
+br\edu\ifsuldeminas\sd\chat\client\Chat.class
+br\edu\ifsuldeminas\sd\chat\Sender.class
